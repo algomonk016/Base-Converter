@@ -6,11 +6,11 @@ It is developed using C++. <br>
 Here is the input format for this application :
 - base from which you want to convert
 - if base is greater than 10, <br>
-   -- provide characters with their values
+   - provide characters with their values
 - number which is to be converted
 - base in which you want to convert
 - if base is greater than 10, <br>
-		- provide characters with their values
+   - provide characters with their values
 <br><br>
 ## Functions Used : <br>
 1. ***string numToDecimal(string num, int base)*** : <br>
