@@ -4,12 +4,12 @@ It is developed using C++. <br>
 <br>
 Input format: <br>
 Here is the input format for this application :
-1. base from which you want to convert
-2. if base is greater than 10, <br>
+- base from which you want to convert
+- if base is greater than 10, <br>
    -- provide characters with their values
-4. number which is to be converted
-5. base in which you want to convert
-6. if base is greater than 10, <br>
+- number which is to be converted
+- base in which you want to convert
+- if base is greater than 10, <br>
 		- provide characters with their values
 <br><br>
 Functions Used : <br>
