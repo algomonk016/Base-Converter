@@ -12,6 +12,9 @@ Here is the input format for this application :
 - if base is greater than 10, <br>
    - provide characters with their values
 <br><br>
+
+![Input-Output](https://drive.google.com/file/d/13hxrUWmJkaOCpfBD2b0aauqUuZ_OUWhV/view?usp=sharing)
+
 ## Functions Used : <br>
 1. ***string numToDecimal(string num, int base)*** : <br>
 		- this function converts the provided number into decimal number. <br>
