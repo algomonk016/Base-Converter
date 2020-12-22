@@ -13,7 +13,7 @@ Here is the input format for this application :
    - provide characters with their values
 <br><br>
 
-![InputOutput](https://drive.google.com/file/d/13hxrUWmJkaOCpfBD2b0aauqUuZ_OUWhV/view)
+![base](https://user-images.githubusercontent.com/55861951/102896141-e8b12b00-448b-11eb-8575-079000246611.PNG)
 
 ## Functions Used : <br>
 1. ***string numToDecimal(string num, int base)*** : <br>
