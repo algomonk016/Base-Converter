@@ -13,10 +13,10 @@ Here is the input format for this application :
 		- provide characters with their values
 <br>
 Functions Used : <br>
-⦁	***string numToDecimal(string num, int base)***  : <br>
+⦁	***string numToDecimal(string num, int base)*** : <br>
 		- this function converts the provided number into decimal number. <br>
 		- it takes two arguments, first is the number as a string and the oter is base to be converted as an integer. <br>
-		- after conversion, returns the decimal number as a string. <br> 
+		- after conversion, returns the decimal number as a string. <br> <br>
 
 ⦁	***string numToBase(string num, int base)*** : <br>
 		- this function converts the provided decimal number into a number of any base. <br>
