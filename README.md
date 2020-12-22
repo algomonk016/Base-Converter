@@ -1,8 +1,8 @@
 # Base-Converter
-This is a simple base converter which converts a number of base m to a number of base n (m and n are any valid bases ). <br>
+This converts a number of base m to a number of base n (m and n are any valid bases ). <br>
 It is developed using C++. <br>
 <br>
-Input format: <br>
+### Input format: <br>
 Here is the input format for this application :
 - base from which you want to convert
 - if base is greater than 10, <br>
@@ -12,7 +12,7 @@ Here is the input format for this application :
 - if base is greater than 10, <br>
 		- provide characters with their values
 <br><br>
-Functions Used : <br>
+## Functions Used : <br>
 1. ***string numToDecimal(string num, int base)*** : <br>
 		- this function converts the provided number into decimal number. <br>
 		- it takes two arguments, first is the number as a string and the oter is base to be converted as an integer. <br>
