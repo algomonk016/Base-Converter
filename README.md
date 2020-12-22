@@ -21,7 +21,7 @@ Here is the input format for this application :
 2. ***string numToBase(string num, int base)*** : <br>
 		- this function converts the provided decimal number into a number of any base. <br>
 		- it takes two arguments, first is the decimal number as a string and other is base in which we have to convert (as an integer). <br>
-		- after conversion, returns the decimal number as a string. <br> <br>
+		- after conversion, returns the final number as a string. <br> <br>
 
 SAMPLE-INPUT
 ---
