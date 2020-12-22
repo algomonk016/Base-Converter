@@ -11,14 +11,14 @@ Here is the input format for this application :
 5. base in which you want to convert
 6. if base is greater than 10, <br>
 		- provide characters with their values
-<br>
+<br><br>
 Functions Used : <br>
-1.	***string numToDecimal(string num, int base)*** : <br>
+1. ***string numToDecimal(string num, int base)*** : <br>
 		- this function converts the provided number into decimal number. <br>
 		- it takes two arguments, first is the number as a string and the oter is base to be converted as an integer. <br>
 		- after conversion, returns the decimal number as a string. <br> <br>
 
-2.	***string numToBase(string num, int base)*** : <br>
+2. ***string numToBase(string num, int base)*** : <br>
 		- this function converts the provided decimal number into a number of any base. <br>
 		- it takes two arguments, first is the decimal number as a string and other is base in which we have to convert (as an integer). <br>
 		- after conversion, returns the decimal number as a string. <br> <br>
