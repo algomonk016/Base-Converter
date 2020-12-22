@@ -1,5 +1,5 @@
 # Base-Converter
-This converts a number of base m to a number of base n (m and n are any valid bases ). <br>
+This application converts a number of base m to a number of base n (m and n are any valid bases ). <br>
 It is developed using C++. <br>
 <br>
 ### Input format: <br>
